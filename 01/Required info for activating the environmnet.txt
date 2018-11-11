@@ -1,0 +1,5 @@
+# Activation address
+source mnt/c/Users/emirt/OneDrive/Desktop/Environments/project_GPSSIm/bin/activate
+
+# Changing direction to working folder
+cd mnt/c/Users/emirt/Google\ Drive/ML_CoLab/GPS\ Simulation/

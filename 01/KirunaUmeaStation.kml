@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KirunaUmeaStation</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>GPSSIM</name>
+      <Placemark>
+        <name>01. Point 01</name>
+        <description>Kiruna Workshop</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            20.1971907,67.8705253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>02. Point 2</name>
+        <description>Kiruna Station</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            20.1986984,67.868731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03. Point 3</name>
+        <description>changing direction_mine/continue</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            20.2050536,67.8628179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04. Point 4</name>
+        <description>Entrance to Mine</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            20.2037718,67.8591859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>05. Point 5</name>
+        <description>Exit from Mine</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            20.2043811,67.85891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06. Point 6</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2133137,67.856564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>07. Point 7</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2177056,67.8519065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>08. Point 8</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2195415,67.8492482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>09. Point 9</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2208713,67.8458611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10. Point 10</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2231434,67.8403625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11. Point 11</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2275106,67.837863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12. Point 12</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2305519,67.8368491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13. Point 13</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.235902,67.8345655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14. Point 14</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2375738,67.829823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15. Point 15</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.2404936,67.8250947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

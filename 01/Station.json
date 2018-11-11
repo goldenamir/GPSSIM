@@ -1,0 +1,362 @@
+{
+  "RESPONSE": {
+    "RESULT": [
+      {
+        "TrainStation": [
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Arbrå",
+            "AdvertisedShortLocationName": "Arbrå",
+            "CountryCode": "SE",
+            "CountyNo": [
+              21
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (573518 6816033)",
+              "WGS84": "POINT (16.37983461815908 61.471034792465439)"
+            },
+            "LocationSignature": "Ab",
+            "ModifiedTime": "2018-05-15T07:59:06.14Z",
+            "PlatformLine": [
+              "1"
+            ],
+            "Prognosticated": true
+          },
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Avesta centrum",
+            "AdvertisedShortLocationName": "Avesta centrum",
+            "CountryCode": "SE",
+            "CountyNo": [
+              20
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (565001 6668391)",
+              "WGS84": "POINT (16.17060693896951 60.1472930337373)"
+            },
+            "LocationSignature": "Acm",
+            "ModifiedTime": "2018-05-15T07:59:06.187Z",
+            "PlatformLine": [
+              "1"
+            ],
+            "Prognosticated": true
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Alfta",
+            "AdvertisedShortLocationName": "Alfta",
+            "CountryCode": "SE",
+            "CountyNo": [
+              21
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (557312 6801747)",
+              "WGS84": "POINT (16.071339801158693 61.3455456378038)"
+            },
+            "LocationSignature": "Aft",
+            "ModifiedTime": "2018-05-15T07:59:19.845Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Anneberg",
+            "AdvertisedShortLocationName": "Anneberg",
+            "CountryCode": "SE",
+            "CountyNo": [
+              13
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (326462 6381052)",
+              "WGS84": "POINT (12.10077643689166 57.538628927780955)"
+            },
+            "LocationInformationText": "Spåruppgifterna är preliminära och kan ändras.",
+            "LocationSignature": "Ag",
+            "ModifiedTime": "2018-05-15T07:59:35.596Z",
+            "PlatformLine": [
+              "1",
+              "2"
+            ],
+            "Prognosticated": true
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Agnesberg",
+            "AdvertisedShortLocationName": "Agnesberg",
+            "CountryCode": "SE",
+            "CountyNo": [
+              14
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (322050 6408268)",
+              "WGS84": "POINT (12.007126103824072 57.78105359528368)"
+            },
+            "LocationSignature": "Agb",
+            "ModifiedTime": "2018-05-15T07:59:06.078Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Aleholm",
+            "AdvertisedShortLocationName": "Aleholm",
+            "CountryCode": "SE",
+            "CountyNo": [
+              6
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (479775 6361765)",
+              "WGS84": "POINT (14.663463013204055 57.398216699534224)"
+            },
+            "LocationSignature": "Ahm",
+            "ModifiedTime": "2018-05-15T07:59:06.125Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Algutsgården",
+            "AdvertisedShortLocationName": "Algutsgården",
+            "CountryCode": "SE",
+            "CountyNo": [
+              14
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (361175 6429802)",
+              "WGS84": "POINT (12.651869975240636 57.988136297600022)"
+            },
+            "LocationSignature": "Agg",
+            "ModifiedTime": "2018-05-15T07:59:06.078Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Aitik",
+            "AdvertisedShortLocationName": "Aitik",
+            "CountryCode": "SE",
+            "CountyNo": [
+              25
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (750449 7451255)",
+              "WGS84": "POINT (20.768235953833813 67.0740146634426)"
+            },
+            "LocationSignature": "Aik",
+            "ModifiedTime": "2018-05-15T07:59:06.187Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Arvidsjaur",
+            "AdvertisedShortLocationName": "Arvidsjaur",
+            "CountryCode": "SE",
+            "CountyNo": [
+              25
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (692122 7280435)",
+              "WGS84": "POINT (19.168451956162333 65.588705755191725)"
+            },
+            "LocationSignature": "Ajr",
+            "ModifiedTime": "2018-05-15T07:59:05.937Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Abisko Östra",
+            "AdvertisedShortLocationName": "Abisko Ö",
+            "CountryCode": "SE",
+            "CountyNo": [
+              25
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (657629 7586635)",
+              "WGS84": "POINT (18.830346214296274 68.3486410812835)"
+            },
+            "LocationInformationText": "Spåruppgifterna är preliminära och kan ändras.",
+            "LocationSignature": "Ak",
+            "ModifiedTime": "2018-05-15T07:59:13.407Z",
+            "PlatformLine": [
+              "1",
+              "5",
+              "2",
+              "3"
+            ],
+            "Prognosticated": true
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Alvhem",
+            "AdvertisedShortLocationName": "Alvhem",
+            "CountryCode": "SE",
+            "CountyNo": [
+              14
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (332074 6433451)",
+              "WGS84": "POINT (12.157685045241994 58.010841208432964)"
+            },
+            "LocationSignature": "Alh",
+            "ModifiedTime": "2018-05-15T07:59:05.922Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Abisko turiststation",
+            "AdvertisedShortLocationName": "Abisko turist",
+            "CountryCode": "SE",
+            "CountyNo": [
+              25
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (655634 7587481)",
+              "WGS84": "POINT (18.78326035226819 68.357316241403325)"
+            },
+            "LocationSignature": "Akt",
+            "ModifiedTime": "2018-05-15T07:59:05.937Z",
+            "PlatformLine": [
+              "1"
+            ],
+            "Prognosticated": true
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Arlövs industrispår",
+            "AdvertisedShortLocationName": "Arlövs industrispår",
+            "CountryCode": "SE",
+            "CountyNo": [
+              12
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (378666 6167855)",
+              "WGS84": "POINT (13.072220213141129 55.641401161689046)"
+            },
+            "LocationSignature": "Ali",
+            "ModifiedTime": "2018-05-15T07:59:05.953Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Arlöv",
+            "AdvertisedShortLocationName": "Arlöv",
+            "CountryCode": "SE",
+            "CountyNo": [
+              12
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (378403 6167023)",
+              "WGS84": "POINT (13.068412053761493 55.633863798691216)"
+            },
+            "LocationSignature": "Al",
+            "ModifiedTime": "2018-05-15T07:59:35.956Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Astrid Lindgrens värld",
+            "AdvertisedShortLocationName": "Astrid Lindgrens värld",
+            "CountryCode": "SE",
+            "CountyNo": [
+              8
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (550107 6392583)",
+              "WGS84": "POINT (15.840063951305682 57.672707295232549)"
+            },
+            "LocationSignature": "Alv",
+            "ModifiedTime": "2018-05-15T07:59:20.907Z",
+            "PlatformLine": [
+              "1"
+            ],
+            "Prognosticated": true
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Almedal",
+            "AdvertisedShortLocationName": "Almedal",
+            "CountryCode": "SE",
+            "CountyNo": [
+              14
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (321386 6397481)",
+              "WGS84": "POINT (12.003992324656123 57.684028973333469)"
+            },
+            "LocationSignature": "Am",
+            "ModifiedTime": "2018-05-15T07:59:17.673Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": true,
+            "AdvertisedLocationName": "Alingsås",
+            "AdvertisedShortLocationName": "Alingsås",
+            "CountryCode": "SE",
+            "CountyNo": [
+              14
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (353852 6423240)",
+              "WGS84": "POINT (12.53218546120595 57.926905169934273)"
+            },
+            "LocationInformationText": "Spåruppgifterna är preliminära och kan ändras.",
+            "LocationSignature": "A",
+            "ModifiedTime": "2018-07-30T08:00:16.845Z",
+            "PlatformLine": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "Prognosticated": true
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Arvån",
+            "AdvertisedShortLocationName": "Arvån",
+            "CountryCode": "SE",
+            "CountyNo": [
+              24
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (691781 7165289)",
+              "WGS84": "POINT (19.003010968874246 64.558357343031545)"
+            },
+            "LocationSignature": "An",
+            "ModifiedTime": "2018-05-15T07:59:15.735Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Almnäs",
+            "AdvertisedShortLocationName": "Almnäs",
+            "CountryCode": "SE",
+            "CountyNo": [
+              2,
+              1
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (643349 6561610)",
+              "WGS84": "POINT (17.507802824548527 59.169404149769846)"
+            },
+            "LocationSignature": "Alä",
+            "ModifiedTime": "2018-05-15T07:59:05.953Z",
+            "Prognosticated": false
+          },
+          {
+            "Advertised": false,
+            "AdvertisedLocationName": "Arnemark",
+            "AdvertisedShortLocationName": "Arnemark",
+            "CountryCode": "SE",
+            "CountyNo": [
+              25
+            ],
+            "Geometry": {
+              "SWEREF99TM": "POINT (787450 7277419)",
+              "WGS84": "POINT (21.217933827304552 65.491275571655123)"
+            },
+            "LocationSignature": "Amk",
+            "ModifiedTime": "2018-05-15T07:59:26.642Z",
+            "Prognosticated": false
+          }
+        ]
+      }
+    ]
+  }
+}

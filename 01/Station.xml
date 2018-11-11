@@ -1,0 +1,302 @@
+<RESPONSE>
+      <RESULT>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Arbrå</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Arbrå</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>21</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (573518 6816033)</SWEREF99TM>
+                        <WGS84>POINT (16.37983461815908 61.471034792465439)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Ab</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:06.14Z</ModifiedTime>
+                  <PlatformLine>1</PlatformLine>
+                  <Prognosticated>true</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Avesta centrum</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Avesta centrum</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>20</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (565001 6668391)</SWEREF99TM>
+                        <WGS84>POINT (16.17060693896951 60.1472930337373)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Acm</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:06.187Z</ModifiedTime>
+                  <PlatformLine>1</PlatformLine>
+                  <Prognosticated>true</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Alfta</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Alfta</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>21</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (557312 6801747)</SWEREF99TM>
+                        <WGS84>POINT (16.071339801158693 61.3455456378038)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Aft</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:19.845Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Anneberg</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Anneberg</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>13</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (326462 6381052)</SWEREF99TM>
+                        <WGS84>POINT (12.10077643689166 57.538628927780955)</WGS84>
+                  </Geometry>
+                  <LocationInformationText>Spåruppgifterna är preliminära och kan ändras.</LocationInformationText>
+                  <LocationSignature>Ag</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:35.596Z</ModifiedTime>
+                  <PlatformLine>1</PlatformLine>
+                  <PlatformLine>2</PlatformLine>
+                  <Prognosticated>true</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Agnesberg</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Agnesberg</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>14</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (322050 6408268)</SWEREF99TM>
+                        <WGS84>POINT (12.007126103824072 57.78105359528368)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Agb</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:06.078Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Aleholm</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Aleholm</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>6</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (479775 6361765)</SWEREF99TM>
+                        <WGS84>POINT (14.663463013204055 57.398216699534224)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Ahm</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:06.125Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Algutsgården</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Algutsgården</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>14</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (361175 6429802)</SWEREF99TM>
+                        <WGS84>POINT (12.651869975240636 57.988136297600022)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Agg</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:06.078Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Aitik</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Aitik</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>25</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (750449 7451255)</SWEREF99TM>
+                        <WGS84>POINT (20.768235953833813 67.0740146634426)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Aik</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:06.187Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Arvidsjaur</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Arvidsjaur</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>25</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (692122 7280435)</SWEREF99TM>
+                        <WGS84>POINT (19.168451956162333 65.588705755191725)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Ajr</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:05.937Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Abisko Östra</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Abisko Ö</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>25</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (657629 7586635)</SWEREF99TM>
+                        <WGS84>POINT (18.830346214296274 68.3486410812835)</WGS84>
+                  </Geometry>
+                  <LocationInformationText>Spåruppgifterna är preliminära och kan ändras.</LocationInformationText>
+                  <LocationSignature>Ak</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:13.407Z</ModifiedTime>
+                  <PlatformLine>1</PlatformLine>
+                  <PlatformLine>5</PlatformLine>
+                  <PlatformLine>2</PlatformLine>
+                  <PlatformLine>3</PlatformLine>
+                  <Prognosticated>true</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Alvhem</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Alvhem</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>14</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (332074 6433451)</SWEREF99TM>
+                        <WGS84>POINT (12.157685045241994 58.010841208432964)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Alh</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:05.922Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Abisko turiststation</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Abisko turist</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>25</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (655634 7587481)</SWEREF99TM>
+                        <WGS84>POINT (18.78326035226819 68.357316241403325)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Akt</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:05.937Z</ModifiedTime>
+                  <PlatformLine>1</PlatformLine>
+                  <Prognosticated>true</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Arlövs industrispår</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Arlövs industrispår</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>12</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (378666 6167855)</SWEREF99TM>
+                        <WGS84>POINT (13.072220213141129 55.641401161689046)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Ali</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:05.953Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Arlöv</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Arlöv</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>12</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (378403 6167023)</SWEREF99TM>
+                        <WGS84>POINT (13.068412053761493 55.633863798691216)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Al</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:35.956Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Astrid Lindgrens värld</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Astrid Lindgrens värld</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>8</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (550107 6392583)</SWEREF99TM>
+                        <WGS84>POINT (15.840063951305682 57.672707295232549)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Alv</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:20.907Z</ModifiedTime>
+                  <PlatformLine>1</PlatformLine>
+                  <Prognosticated>true</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Almedal</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Almedal</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>14</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (321386 6397481)</SWEREF99TM>
+                        <WGS84>POINT (12.003992324656123 57.684028973333469)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Am</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:17.673Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>true</Advertised>
+                  <AdvertisedLocationName>Alingsås</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Alingsås</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>14</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (353852 6423240)</SWEREF99TM>
+                        <WGS84>POINT (12.53218546120595 57.926905169934273)</WGS84>
+                  </Geometry>
+                  <LocationInformationText>Spåruppgifterna är preliminära och kan ändras.</LocationInformationText>
+                  <LocationSignature>A</LocationSignature>
+                  <ModifiedTime>2018-07-30T08:00:16.845Z</ModifiedTime>
+                  <PlatformLine>1</PlatformLine>
+                  <PlatformLine>2</PlatformLine>
+                  <PlatformLine>3</PlatformLine>
+                  <PlatformLine>4</PlatformLine>
+                  <Prognosticated>true</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Arvån</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Arvån</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>24</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (691781 7165289)</SWEREF99TM>
+                        <WGS84>POINT (19.003010968874246 64.558357343031545)</WGS84>
+                  </Geometry>
+                  <LocationSignature>An</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:15.735Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Almnäs</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Almnäs</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>2</CountyNo>
+                  <CountyNo>1</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (643349 6561610)</SWEREF99TM>
+                        <WGS84>POINT (17.507802824548527 59.169404149769846)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Alä</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:05.953Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+            <TrainStation>
+                  <Advertised>false</Advertised>
+                  <AdvertisedLocationName>Arnemark</AdvertisedLocationName>
+                  <AdvertisedShortLocationName>Arnemark</AdvertisedShortLocationName>
+                  <CountryCode>SE</CountryCode>
+                  <CountyNo>25</CountyNo>
+                  <Geometry>
+                        <SWEREF99TM>POINT (787450 7277419)</SWEREF99TM>
+                        <WGS84>POINT (21.217933827304552 65.491275571655123)</WGS84>
+                  </Geometry>
+                  <LocationSignature>Amk</LocationSignature>
+                  <ModifiedTime>2018-05-15T07:59:26.642Z</ModifiedTime>
+                  <Prognosticated>false</Prognosticated>
+            </TrainStation>
+      </RESULT>
+</RESPONSE>
